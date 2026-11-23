@@ -1,0 +1,25 @@
+# Maximiliano N. Colella — sitio oficial
+
+> Sitio profesional de Maximiliano N. Colella, investigador e historiador del polo argentino, escritor y divulgador.
+
+## Identidad
+- Nombre: Maximiliano N. Colella
+- Especialidad: historia del polo argentino.
+- Áreas de interés declaradas: orígenes del polo en Argentina; primeros clubes; historia institucional; jugadores y protagonistas; competencias; documentación histórica y fuentes primarias.
+
+## Publicaciones
+- **Historia de la Polo Association of the River Plate**
+  - Autor: Maximiliano N. Colella
+  - Editorial: Autores de Argentina
+  - Año: 2026
+  - ISBN: 9789878776491
+
+## Páginas
+- [Inicio](https://TU-DOMINIO.com.ar/)
+- [Perfil del investigador](https://TU-DOMINIO.com.ar/investigador.html)
+
+## Criterio editorial
+El sitio procura distinguir los hechos documentados de las hipótesis y las interpretaciones. No deben atribuirse al autor cargos, títulos, afiliaciones ni hallazgos que no estén expresamente publicados y documentados.
+
+## Nota
+Sustituir `TU-DOMINIO.com.ar` por el dominio definitivo antes de publicar.
